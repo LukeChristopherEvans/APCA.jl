@@ -1,0 +1,13 @@
+name = "APCA"
+uuid = "5ae720ec-14e9-44ab-9a75-4be4760b2d28"
+authors = ["Luke Evans"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
