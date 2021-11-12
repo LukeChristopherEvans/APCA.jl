@@ -3,6 +3,13 @@ uuid = "5ae720ec-14e9-44ab-9a75-4be4760b2d28"
 authors = ["Luke Evans"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Wavelets = "29a6e085-ba6d-5f35-a997-948ac2efa89a"
+
 [compat]
 julia = "1"
 
